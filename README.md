@@ -1,5 +1,5 @@
 
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>👷 Speciality: Full stack developer</code><br>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: node.js</code>
